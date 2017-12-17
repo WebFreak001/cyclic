@@ -5,5 +5,8 @@
 	"authors": [
 		"webfreak"
 	],
+	"__comment": "experimental feature change in dub registry",
+	"donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P4253LD9ZLF2Y",
+	"donationDetail": "Donate BTC: 1MYjR5tNRC6RLE1xYCBvVDLiQiXC5KSStr",
 	"copyright": "Copyright © 2017 webfreak"
 }
